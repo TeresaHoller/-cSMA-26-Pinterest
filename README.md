@@ -27,7 +27,17 @@ data:
 notebooks:
 
 - textual
-results
+    - Caption_Analysis.ipynb
+    - OCR_Analysis.ipynb
+- visual
+    - Annotation_Analysis.ipynb
+    - Color_Analysis.ipynb
+- Preprocessing_Zeeschuimer_Import.ipynb
+
+results:
+
+- annotation_goldstandard.csv
+- combined_colors.csv
 README.txt
 requirements.txt
 
