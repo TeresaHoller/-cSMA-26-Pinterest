@@ -5,7 +5,9 @@ Emily Heinz (emily.heinz@stud.uni-regensburg.de)
 Teresa Holler (teresa.holler@stud.uni-regensburg.de)
 
 **Institution:** University of Regensburg, Faculty of Language, Literature and Cultural Studies 
+
 **Course:** Computational Social Media Analysis (Winter 2025/26)
+
 **Submission Date:** February 28, 2026
 
 ## Overview
