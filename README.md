@@ -8,7 +8,7 @@ Teresa Holler (teresa.holler@stud.uni-regensburg.de)
 
 **Course:** Computational Social Media Analysis (Winter 2025/26)
 
-**Submission Date:** February 28, 2026
+**Submission Date:** March 20, 2026
 
 ## Overview
 This is the repository contains the code, data and analysis for our computational study of two contrasting Pinterest aesthetics: **Clean Girl** and **Messy Girl**. We examine how visual and textual signals construct consumption identities on Pinterest through a mixed-methods approach combining manual annotation, computer vision (color analysis), and natural language processing (OCR + text analysis).
@@ -19,7 +19,16 @@ This is the repository contains the code, data and analysis for our computationa
 3. To what extent do these trends reproduce exclusionary norms around body image, skin color, and consumption?
 
 ## Repository Structure
-tbd.
+data:
+
+- Annotation_Overall.xlsx
+- 
+- combined_clean_messy_new.csv
+
+notebooks:
+
+- textual
+results
 README.txt
 requirements.txt
 
