@@ -38,7 +38,9 @@ results:
 
 - annotation_goldstandard.csv
 - combined_colors.csv
+
 README.txt
+
 requirements.txt
 
 ## Acknowledgments
