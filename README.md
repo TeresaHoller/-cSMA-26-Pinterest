@@ -22,7 +22,6 @@ This is the repository contains the code, data and analysis for our computationa
 data:
 
 - Annotation_Overall.xlsx
-- 
 - combined_clean_messy_new.csv
 
 notebooks:
