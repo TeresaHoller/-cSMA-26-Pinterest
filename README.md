@@ -1,4 +1,4 @@
-# -cSMA-26-Pinterest
+# Pinning Identity: Visual and Textual Construction of Consumption Norms in Pinterest Microtrends
 ## Authors: 
 Sophia Babl (sophia.babl@stud.uni-regensburg.de)  
 Emily Heinz (emily.heinz@stud.uni-regensburg.de)  
